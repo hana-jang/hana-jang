@@ -2,7 +2,8 @@
 
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving) -->
-![header](https://capsule-render.vercel.app/api?type=rounded&color=ffcdcc&height=300&section=header&text=HANA's%20Github!&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=300&section=header&text=HANA's%20Github!&fontSize=100)
+<!-- type:rounded / color pink=ffcdcc-->
 <hr>
 <div>
   <h1>SKILL</h1>
