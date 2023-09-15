@@ -22,6 +22,7 @@
   <li>
     반응형 페이지
     <ul>
+      <li>portofolio [ 대표 포트폴리오 ]</li>
       <li>momocase [ react / 핸드폰케이스 쇼핑몰]</li>
       <li>outback [ 아웃백스테이크하우스 사이트]</li>
       <li>Team project [ 팀 프로젝트 / 모나미 사이트 ]</li>
@@ -33,7 +34,6 @@
   <li>
     반응형 X 페이지
     <ul>
-      <li>portofolio [ 대표 포트폴리오 ]</li>
       <li>pre-portofolio [ 대표 포트폴리오 리뉴얼 전 ]</li>
       <li>millie [ ajax · json / 밀리의 서재 서점 사이트]</li>
       <li>romistory [ 옷 쇼핑몰 ]</li>
